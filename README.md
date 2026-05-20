@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Mai
+# Olá, me chamo Gustavo Mai
 
 ## Desenvolvedor Backend Python | Django | SQL | Linux
 
